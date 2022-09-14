@@ -1,0 +1,16 @@
+#dropdownMenuButton   {
+    cursor: pointer;
+    background: none!important;
+    border: none!important;
+    box-shadow: none!important;
+  }
+  
+  .user-button:active {
+    border: none!important;
+    box-shadow: none!important;
+  }
+
+  .dropdown-menu {
+    padding: 20px 0px;
+    margin-top: 5px!important;
+  }

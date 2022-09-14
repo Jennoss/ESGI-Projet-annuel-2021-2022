@@ -1,0 +1,8 @@
+canvas {
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: red;
+}

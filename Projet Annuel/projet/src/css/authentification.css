@@ -1,0 +1,134 @@
+body {
+    padding: 0!important;
+    margin: 0!important;
+}
+
+.row {
+    padding: 0!important;
+    margin: 0!important;
+}
+
+.form-main {
+    background-color: red;
+}
+
+form {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h4 {
+    margin-top: 10px;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0,0,0,.4);
+}
+
+
+.button-verify:hover {
+    color: white!important;
+}
+
+.fa-rotate {
+    background: linear-gradient(to right, #ff00ff 0%, #00a6ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: #000000;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+
+
+.resend {
+    width: 40%!important;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.res {
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 25%;
+    height: 100vh;
+    transition: 1s ease-in-out;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+}
+
+
+.form-2 {
+    padding-bottom: 100px!important;
+}
+
+
+@media(max-width: 1700px) {
+    .res {
+        transition: 0.5s ease-in-out;
+        width: 35%;
+    }
+}
+
+@media(max-width: 1500px) {
+    .res {
+        transition: 0.5s ease-in-out;
+        width: 40%;
+    }
+}
+
+
+@media(max-width: 1200px) {
+    .res {
+        transition: 0.5s ease-in-out;
+        width: 50%;
+    }
+}
+
+
+
+@media(max-width: 1000px) {
+    .res {
+        transition: 0.5s ease-in-out;
+        width: 60%;
+    }
+}
+
+@media(max-width: 800px) {
+    .res {
+        transition: 0.5s ease-in-out;
+        width: 70%;
+    }
+}
+
+
+@media(max-width: 800px) {
+    .res {
+        transition: 0.5s ease-in-out;
+        width: 100%;
+    }
+}
+
+@media(max-height: 807px) {
+    .res {
+        height: 110%!important;
+    }
+}
+
+@media(max-height: 700px) {
+    .res {
+        height: 130%!important;
+    }
+}
+
+@media(max-height: 600px) {
+    .res {
+        height: 150%!important;
+    }
+}
+
+@media(max-height: 500px) {
+    .res {
+        height: 100%!important;
+    }
+}

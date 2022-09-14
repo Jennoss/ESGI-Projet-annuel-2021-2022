@@ -1,0 +1,390 @@
+.abonnement-header{
+    background-image: url('../img/header/abonnement-header.jpg');
+    background-size: cover;
+    background-position: 50% 20%;
+    height: 65vh;
+    margin-top: -71px!important;
+    box-shadow: 1px 2px 5px rgb(0, 0, 0);
+}
+
+
+.aPartirDe {
+    height: 28px;
+}
+
+
+.nos_formules {
+    
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.51);
+}
+
+.space-top {
+    height: 25vh!important;
+}
+
+.apartir {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 40px;
+    color: #FFFFFF;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.price {
+    background: linear-gradient(to right, #ff00ff 0%, #00a6ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: #000000;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 46px;
+    text-shadow: 2px 2px 4px rgba(79, 79, 79, 0.5);
+}
+
+
+.container-size {
+    height: 100%!important;
+}
+
+
+.btnn {
+    border: none;
+    background-image: linear-gradient(to right, #c2139cc0 0%, #0597ffbe 100%)!important;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    border-radius: 24px;
+    color: white;
+    padding: 13px;
+}
+
+.btnn:hover {
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 3px, rgba(0, 0, 0, 0.3) 0px 5px 10px -1px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    color: white;
+  }
+  
+  .btnn:active {
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    color: white;
+  }
+
+  .text {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    color: #FFFFFF;
+  }
+  
+.abonement-box {
+    margin: 0px!important;
+    padding: 0px!important;
+}
+
+.abonnement-item {
+    height: 600px!important;
+    width: 330px!important;
+    margin-top: 25px!important;
+}
+
+.banner-abonnement{
+    height: 116px;
+    width: 100%;
+    border-radius: 30px 30px 0px 0px;
+    background-image: url("../img/abonnement/background-banner.jpg");
+    background-size: cover;
+    background-position: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+
+.abonnement-title {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    vertical-align: middle!important;
+    color: #FFFFFF;
+    height: 100%;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+.abonnement-price{
+    height: 139px;
+    background: #F4F4F4;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.price-abonnement{
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 40px;    
+    background: linear-gradient(to right, #ff00ff 0%, #00e1ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+
+.first-number {
+    font-size: 34px;
+}
+
+.engagement{
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 14px;
+    color: #000000;
+    text-shadow: 0.5px 0.5px 1px rgba(0, 0, 0, 0.25);
+}
+
+.gratuit{
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    color: #000000;
+    text-shadow: 0.5px 0.5px 1px rgba(0, 0, 0, 0.25);
+}
+
+
+.button-freemium{
+    border: none;
+    background: linear-gradient(90deg, #0596FF 2.22%, #C2139C 97.78%);
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25), -1px -1px 1px rgba(0, 0, 0, 0.25);
+    border-radius: 24px;
+    height: 48px;
+    width: 180px;
+}
+
+
+
+
+.button-name {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+
+
+.button-placement{
+    position: relative;
+    margin-top: -24px!important;
+}
+
+.abonnement-description {
+    height: 339px;
+    background: #FFFFFF;
+    border-radius: 0px 0px 30px 30px;
+    margin-top: -24px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.list-name {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    text-shadow: 0.5px 0.5px 1px rgba(0, 0, 0, 0.25);
+    margin-left: 25px;
+}
+
+
+.underline-description {
+
+    border-bottom: 2px solid transparent;
+    border-image: linear-gradient(to right, #C2139C 0%, #0596FF 100%);
+    border-image-slice: 1;
+    width:100%;
+}
+
+.fa-solid {
+    color: rgb(78, 245, 147)!important;
+    padding-right: 10px;
+}
+
+
+
+
+
+
+.line-container{
+    text-align: center;
+    line-height: 0.1em;
+    border-bottom: 2px solid transparent;
+    border-image: linear-gradient(to right, #C2139C 0%, #0596FF 100%);
+    border-image-slice: 1;
+    width:100%;
+    padding: 8px!important;
+}
+
+
+
+
+.line {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+
+    background: linear-gradient(90deg, #C2139C 0%, #0596FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+    padding:0 10px; 
+}
+
+.mission {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #8C8C8C;
+}
+
+
+.button-freemium:hover {
+    background: linear-gradient(190deg, #0596FF 2.22%, #C2139C 97.78%);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    transition: all 0.2s ease-in-out!important;
+}
+
+
+
+.background-container {
+    width: 100%;
+    height: 100%;
+    background: #FAFAFA;
+    box-shadow: -1px -1px 1px rgba(0, 0, 0, 0.25), 1px 1px 1px rgba(0, 0, 0, 0.25);
+    margin-top: 70px!important;
+}
+
+
+.avantages {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 40px;
+    width: 100%;
+}
+
+
+
+.icon-aventages {
+    width: 192px;
+    height: 186px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-prime {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #676767;
+}
+
+.text-little-prime {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14   px;
+    line-height: 19px;
+    text-align: center;
+    width: 80%;
+    color: #676767;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+body {
+    background-image: url(../img/header/carousel-3.jpg);
+    background-size: cover;
+    background-position: 80% 0%;
+}
+
+.show-hide {
+    visibility: hidden;
+    position: absolute;
+}
+
+@media (max-width: 1050px) {
+  .show-hide {
+      visibility: visible;
+      position: relative;
+      margin-top: 35px!important;
+  }  
+  .avantages-list {
+      display: none!important;
+  }
+}
+
+@media (max-width: 400px) {
+    .apartir {
+        font-size: 25px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }.nos_formules {
+    font-size: 12px;
+    }
+
+}   
+
+
+@media (max-width: 305px) {
+    .apartir {
+        font-size: 20px;
+    }.nos_formules {
+    font-size: 10px;
+    } .text {
+        font-size: 15px!important;
+    } .btnn {
+        padding: 8px;
+    }
+
+}   
+
